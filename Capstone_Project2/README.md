@@ -8,8 +8,11 @@ There are two sources of data in this study: the market data the news data. Thes
     
  The best way to understand this project is to follow the following order:
  
+ + Capstone2_Ideas.pdf
+ + Capstone2_Project_Proposal.pdf
  + Part 1: EDA_capstone2.ipynb
- + Part 2: Model_Selection_and_Prediction.ipnb
+ + Part 2: Model_Selection_and_Prediction.ipnb --> sumbission.csv as prediction outcome
+ + Capstone2_final_deck.pdf
    
  The result of the model prediction is in the submission.csv file.
    
